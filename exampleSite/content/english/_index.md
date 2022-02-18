@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  bg_overlay: true
+  bg_overlay: false
   title: A Digital Marketing <br/> & Design Agency
   content: We love the Web and the work we do.We work closely with our clients to
     deliver  the best possible solutions for their needs
@@ -61,16 +61,16 @@ funfacts:
   funfact_item:
   - icon: fas fa-mug-hot
     name: Cups Of Coffee
-    count: '99'
+    count: "99"
   - icon: fas fa-glasses
     name: Article Written
-    count: '45'
+    count: "45"
   - icon: fas fa-keyboard
     name: Projects Completed
-    count: '125'
+    count: "125"
   - icon: fas fa-clock
     name: Combined Projects
-    count: '200'
+    count: "200"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
