@@ -1,11 +1,10 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: "/images/dun-exteriores-lr-01.jpg"
   bg_overlay: false
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: Beachfront Marbella <br/> & Luxury Villas and Apartments
+  content: Luxury apartments and villas for sale. Exclusive Marbella beachfront location.
   button:
     enable: true
     label: Discover Our Project
