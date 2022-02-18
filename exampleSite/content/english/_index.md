@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: "/images/dun-exteriores-lr-01.jpg"
-  bg_overlay: false
+  bg_overlay: true
   title: Beachfront Marbella <br/> & Luxury Villas and Apartments
   content: Luxury apartments and villas for sale. Exclusive Marbella beachfront location.
   button:
