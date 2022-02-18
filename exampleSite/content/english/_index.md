@@ -7,8 +7,8 @@ banner:
   content: Luxury apartments and villas for sale. Exclusive Marbella beachfront location.
   button:
     enable: true
-    label: Discover Our Project
-    link: project/
+    label: Download Brochure Now!
+    link: https://campaigns.spacemarbella.com/
 about:
   enable: false
   title: About Us
