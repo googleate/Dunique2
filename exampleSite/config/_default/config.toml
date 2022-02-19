@@ -1,5 +1,5 @@
 baseURL = "www.marbella-dunique.com"
-disableLanguages = []
+disableLanguages = ["de", "it", "en"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
 hasCJKLanguage = false
