@@ -2,15 +2,15 @@
 banner:
   enable: true
   bg_image: "/images/dun-exteriores-lr-01.jpg"
-  bg_overlay: true
+  bg_overlay: false
   title: Beachfront Marbella <br/> & Luxury Villas and Apartments
   content: Luxury apartments and villas for sale. Exclusive Marbella beachfront location.
   button:
     enable: true
-    label: Download Brochure Now!
-    link: https://campaigns.spacemarbella.com/
+    label: Discover Our Project
+    link: project/
 about:
-  enable: false
+  enable: true
   title: About Us
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
@@ -23,7 +23,7 @@ about:
     culpa qui officia deserunt mollit anim id.
   image: images/wrapper-img.png
 portfolio:
-  enable: false
+  enable: true
   bg_image: images/feature-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
@@ -39,9 +39,9 @@ portfolio:
     label: View Works
     link: project/
 service:
-  enable: false
+  enable: true
 cta:
-  enable: false
+  enable: true
   bg_image: images/call-to-action-bg.jpg
   title: We design delightful digital experiences.
   content: Read more about what we do and our philosophy of design. Judge for yourself
@@ -52,7 +52,7 @@ cta:
     label: Tell Us Your Story
     link: contact/
 funfacts:
-  enable: false
+  enable: true
   title: Fun Facts About Us
   description: "'Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
@@ -60,16 +60,16 @@ funfacts:
   funfact_item:
   - icon: fas fa-mug-hot
     name: Cups Of Coffee
-    count: "99"
+    count: '99'
   - icon: fas fa-glasses
     name: Article Written
-    count: "45"
+    count: '45'
   - icon: fas fa-keyboard
     name: Projects Completed
-    count: "125"
+    count: '125'
   - icon: fas fa-clock
     name: Combined Projects
-    count: "200"
+    count: '200'
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
